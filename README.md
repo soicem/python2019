@@ -54,12 +54,13 @@ decision tree depth==13 with prediction report
 
 번호 | 이름
 ---- | ---- 
-----| 모듈
+---- | 모듈
 1 | sklearn decisionTree
 2 | graphviz
 3 | pandas
 4 | numpy
---- | ----
+---- | ----
+---- | 
 1 | Python 3.5
 2 | anaconda
 3 | windows 10
