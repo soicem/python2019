@@ -16,13 +16,14 @@
 
 ## 내용
 ```
-![](https://github.com/soicem/python2019/blob/master/res/%EC%9D%8C%EC%A3%BC%EC%97%AC%EB%B6%80.png)
+건강정보, 
 ```
+![](https://github.com/soicem/python2019/blob/master/res/%EA%B1%B4%EA%B0%95%EC%A0%95%EB%B3%B4.png)
+![](https://github.com/soicem/python2019/blob/master/res/%EC%9D%8C%EC%A3%BC%EC%97%AC%EB%B6%80.png)
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth1.png)
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth2.png)
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth3.png)
 ![](https://github.com/soicem/python2019/blob/master/res/report%20depth3.PNG)
-![](https://github.com/soicem/python2019/blob/master/res/%EA%B1%B4%EA%B0%95%EC%A0%95%EB%B3%B4.png)
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth12.png)
 ![](https://github.com/soicem/python2019/blob/master/res/report%20depth13.PNG)
 
