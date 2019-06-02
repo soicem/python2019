@@ -31,6 +31,10 @@ decision tree depth==2
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth2.png)
 ```
 decision tree depth==3 with prediction report
+
+*gamma GTP
+ ALP와 함께 쓸개 모세관 손상을 반영하는 효소로 주로 간세포의 쓸개모세관쪽 세포막에 존재한다. GGT는 간세포 손상때보다는 간의 폐쇄성질환과 공간점유병변 때 더 높게 상승하며 GGT는 간질환 없이도, 알코올 중독자, 비만한 사람의 일부, 아세트아미노펜, 페니토인, 카르바마제핀 같은 약물의 과다복용 때 상승할 수 있다.
+
 ```
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth3.png)
 ![](https://github.com/soicem/python2019/blob/master/res/report%20depth3.PNG)
