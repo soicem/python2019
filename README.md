@@ -15,7 +15,9 @@
  국민 건강데이터를 전처리한 후 해당 feature들 중 유의미한 feature를 선정하여 학습한다.  학습시킨 데이터의 feature를 slicing하거나 max depth를 늘리거나 줄여본다.  본 프로젝트에서는 트리 시각화를 위하여 max depth를 늘리고 줄이는 것을 주로 진행하였다.  해당 결과가 만족스럽다면 Report를 생성한다.
 
 ## 내용
+```
 ![](https://github.com/soicem/python2019/blob/master/res/%EC%9D%8C%EC%A3%BC%EC%97%AC%EB%B6%80.png)
+```
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth1.png)
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth2.png)
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth3.png)
