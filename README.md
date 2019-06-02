@@ -16,14 +16,27 @@
 
 ## 내용
 ```
-건강정보, 
+건강정보 음주
 ```
 ![](https://github.com/soicem/python2019/blob/master/res/%EA%B1%B4%EA%B0%95%EC%A0%95%EB%B3%B4.png)
 ![](https://github.com/soicem/python2019/blob/master/res/%EC%9D%8C%EC%A3%BC%EC%97%AC%EB%B6%80.png)
+
+```
+decision tree depth==1
+```
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth1.png)
+```
+decision tree depth==2
+```
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth2.png)
+```
+decision tree depth==3 with prediction report
+```
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth3.png)
 ![](https://github.com/soicem/python2019/blob/master/res/report%20depth3.PNG)
+```
+decision tree depth==13 with prediction report
+```
 ![](https://github.com/soicem/python2019/blob/master/res/max_depth12.png)
 ![](https://github.com/soicem/python2019/blob/master/res/report%20depth13.PNG)
 
