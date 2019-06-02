@@ -60,7 +60,7 @@ decision tree depth==13 with prediction report
 3 | pandas
 4 | numpy
 ---- | ----
----- | 
+---- | 환경
 1 | Python 3.5
 2 | anaconda
 3 | windows 10
